@@ -1,0 +1,18 @@
+.todo-List {
+    width: 100%;
+    border-collapse:collapse ;
+}
+
+.todo-List th, 
+.todo-List td {
+    padding: 8px;
+    text-align: center;
+}
+
+.todo-List button{
+    padding: 4px 8px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
